@@ -4,7 +4,7 @@
 
 ---
 
-Gyorslink ide: [bit(pont)ly(per)tarsasterkep](bit.ly/tarsasterkep)
+Dadogós gyorslink ide: [bit(pont)ly(per)tterkep](bit.ly/tterkep)
 
 # TÁRSASJÁTÉKOS TÉRKÉP
 
