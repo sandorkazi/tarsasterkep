@@ -10,7 +10,7 @@ Dadogós gyorslink ide: [bit(pont)ly(per)tterkep](bit.ly/tterkep)
 
 Itt a térkép most (ne ezt osszátok meg):
 https://www.google.com/maps/d/embed?mid=1lv-7ejHtb2CDlVNoDVu6t85sqFK98Dc&ehbc=2E312F
-![Előnézet](https://tarsasjatek.gitbook.io/~gitbook/image?url=https:%2F%2F3177527310-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FuxLVXmf8Oe9CVHnQEWVC%252Fuploads%252FXPbtSmn4rpNp7zCbsb6K%252Fimage.png%3Falt=media%26token=a25be7bc-0ef4-4663-901e-24bf679f4842&width=768&dpr=1&quality=100&sign=df7ab7a88f86dc651d8570f27b18c468d37b85ab0e7c0ec18c47655cbf046093)
+![Előnézet](./img/elonezet.png)
 
 ## MI KERÜL IDE?
 
@@ -44,7 +44,7 @@ A társasjátékozás szempontjából fontos helyszínek... kicsit önfejűen sz
 
 1. Elküldöd nekem valahol...
 * sandor.kazi a Google mailes postaládám
-* [messengeren](facebook.com/sandor.kazi) írsz
+* [messengeren](https://facebook.com/sandor.kazi) írsz
 * nyithatsz itt is issue-t, ha az könnyebb :)
 
 2. Ezeket az infókat megadod
@@ -54,7 +54,16 @@ A társasjátékozás szempontjából fontos helyszínek... kicsit önfejűen sz
 * Link (akár facebook), hogy legyen valami támpont, hogy hova lehet fordulni, ha valaki kinézte magának a helyet
 
 ## SEGÍTSÉG
-Ha beragadna ez a térkép a Google térképedre: https://app.gitbook.com/o/o22ht0yjQOe1Lj4ZPpNv/s/uxLVXmf8Oe9CVHnQEWVC/howto/terkep
+
+### Beragadt a telefonom, mindig ezt látom... hogy kell levenni?
+
+Van egy ilyen gomb a fobb felső sarokban a Maps alkalmazásban:
+
+![beragadt_1](./img/beragadt_1.png)
+
+És ott ki tudod kattintani ezt a réteget.
+
+![beragadt_2](./img/beragadt_2.png)
 
 ## SZERKESZTÉS
 
